@@ -1,0 +1,53 @@
+/** Header custom**/
+.travel-out {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+.rounded-corners {
+  border-radius: 20px;
+}
+/** Citas custom **/
+.grand-title {
+  color: #162E49;
+  font-weight: bold;
+}
+.navy {
+  background-color: #162E49!important;
+  color:#ffffff;
+  border: none;
+}
+.navy:hover {
+  background-color: #75C9D1!important;
+  border: none;
+  color: #ffffff;
+}
+.citas-tabs {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 2% 8% 4% 8%;
+  border: 1px solid #a9d42c;
+}
+.green {
+  color: #ffffff;
+  background-color: #a9d42c!important;
+  border: none;
+}
+.green:hover {
+  background-color: #75C9D1!important;
+  border: none;
+  color: #ffffff;
+}
+.navy-servicios {
+  background-color: #162E49;
+  border-radius:5px;
+}
+.navy-servicios:hover {
+  background-color: #a9d42c!important;
+}
+.green-box {
+  color: #ffffff;
+  padding: 2%;
+  background-color: #a9d42c!important;
+  border: none;
+}
